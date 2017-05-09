@@ -18,6 +18,8 @@
 		044D1E4C1EA0B17F002C88E7 /* JXRadarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 044D1E4B1EA0B17F002C88E7 /* JXRadarView.m */; };
 		044D1E4F1EA0B720002C88E7 /* JXRadarPointView.m in Sources */ = {isa = PBXBuildFile; fileRef = 044D1E4E1EA0B720002C88E7 /* JXRadarPointView.m */; };
 		044D1E521EA0BC7D002C88E7 /* JXRadarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 044D1E511EA0BC7D002C88E7 /* JXRadarViewController.m */; };
+		04F9B8861EC159C300F4F9B4 /* Snip20170415_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F9B8851EC159C300F4F9B4 /* Snip20170415_2.png */; };
+		04F9B8881EC159E900F4F9B4 /* Snip20170415_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F9B8871EC159E900F4F9B4 /* Snip20170415_3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,8 @@
 		044D1E4E1EA0B720002C88E7 /* JXRadarPointView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JXRadarPointView.m; sourceTree = "<group>"; };
 		044D1E501EA0BC7D002C88E7 /* JXRadarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JXRadarViewController.h; sourceTree = "<group>"; };
 		044D1E511EA0BC7D002C88E7 /* JXRadarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JXRadarViewController.m; sourceTree = "<group>"; };
+		04F9B8851EC159C300F4F9B4 /* Snip20170415_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Snip20170415_2.png; sourceTree = "<group>"; };
+		04F9B8871EC159E900F4F9B4 /* Snip20170415_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Snip20170415_3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,7 @@
 		04148F4A1EA056E100FA7D8F /* 咻一咻 */ = {
 			isa = PBXGroup;
 			children = (
+				04F9B8841EC159B200F4F9B4 /* Gif */,
 				04148F4E1EA056E100FA7D8F /* AppDelegate.h */,
 				04148F4F1EA056E100FA7D8F /* AppDelegate.m */,
 				04148F511EA056E100FA7D8F /* ViewController.h */,
@@ -102,6 +107,15 @@
 				04148F4C1EA056E100FA7D8F /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04F9B8841EC159B200F4F9B4 /* Gif */ = {
+			isa = PBXGroup;
+			children = (
+				04F9B8871EC159E900F4F9B4 /* Snip20170415_3.png */,
+				04F9B8851EC159C300F4F9B4 /* Snip20170415_2.png */,
+			);
+			path = Gif;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -162,6 +176,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04F9B8881EC159E900F4F9B4 /* Snip20170415_3.png in Resources */,
+				04F9B8861EC159C300F4F9B4 /* Snip20170415_2.png in Resources */,
 				04148F5B1EA056E100FA7D8F /* LaunchScreen.storyboard in Resources */,
 				04148F581EA056E100FA7D8F /* Assets.xcassets in Resources */,
 				04148F561EA056E100FA7D8F /* Main.storyboard in Resources */,
